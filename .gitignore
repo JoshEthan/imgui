@@ -4,6 +4,12 @@
 ## Dear ImGui artifacts
 imgui.ini
 
+## Game Engine
+.vs/
+bin/
+bin-int/
+*.user
+
 ## General build artifacts
 *.o
 *.obj
